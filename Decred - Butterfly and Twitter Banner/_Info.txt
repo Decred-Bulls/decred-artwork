@@ -1,0 +1,58 @@
+This archive contains the following files:
+
+----------------------------------
+
+Butterfly_Artistic.ai
+Butterfly_Artistic.png
+Butterfly_Artistic.svg
+
+Butterfly_Artistic is an abstract rendition of a butterfly combined with the Decred logo.
+
+----------------------------------
+
+Butterfly_Artistic_whiteBorder.png
+Butterfly_Artistic_whiteBorder.svg
+
+Butterfly_Artistic_whiteBorder is the same as Butterfly_Artistic but includes a white border/background and is inteded for use on dark backgrounds.
+
+----------------------------------
+
+Butterfly_Simple.ai
+Butterfly_Simple.png
+Butterfly_Simple.svg
+
+Butterfly_Simple is the Twitter Emoji butterfly, changed to adhere to the Decred design language.
+
+----------------------------------
+
+Butterfly_Simple_whiteBorder.png
+Butterfly_Simple_whiteBorder.svg
+
+Butterfly_Simple_whiteBorder is the same as Butterfly_Simple but includes a white border and is inteded for use on dark backgrounds.
+
+----------------------------------
+
+TwitterBanner.ai
+TwitterBanner.png
+
+TwitterBanner is a Decred banner image intended for Twitter.
+
+----------------------------------
+
+Information to consider when editing text in the TwitterBanner.ai file:
+
+- Text is located in the 'Footer' layer
+- Layer opacity is at 90%
+- Distance between the left and right text blocks is approximately the same as between the decred logo and the "deCRED"
+- Font is Source Sans Variable
+- Font size is 28pt
+- Font weight is 500 (except "$10M+ in funds", which is 400 - the same as font style 'Regular')
+- Font tracking is 70
+
+----------------------------------
+
+
+For further inquiries please contact design@bitart.zone
+
+
+bitart.zone
